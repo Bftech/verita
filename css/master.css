@@ -95,7 +95,17 @@ header a{
 .aff{
   height: 80%;
 }
+form a{
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
 
+  text-decoration: none;
+  color: initial;
+  height: initial;
+  padding: 2px;
+  font-family: "lato", sans-serif;
+}
 @font-face {
     font-family: tron;
     src: url(tron.otf);
