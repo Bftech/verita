@@ -89,6 +89,9 @@ nav p{
   font-weight: 400;
   transition: all 0.5s;
 }
+header a{
+  height: 100%;
+}
 .aff{
   height: 80%;
 }
